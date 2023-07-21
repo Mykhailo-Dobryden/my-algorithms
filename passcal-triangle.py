@@ -1,4 +1,4 @@
-n = int(input("Enter a number for building of Passcal triangle: "))
+n = int(input("Enter a number for building of Pascalle triangle: "))
 triangle = []
 
 for i in range(n):
